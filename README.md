@@ -18,3 +18,9 @@ The closest airport to museum is "Indira Gandhi International Airport". Directio
 4. Go down the street.
 5. You can see museum after walking 0.2 miles.
 
+
+Other places near museum are - 
+* Taj Mahal
+* Red Fort
+* Lotus Temple
+* India Gate
