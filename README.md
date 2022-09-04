@@ -24,3 +24,5 @@ Other places near museum are -
 * Red Fort
 * Lotus Temple
 * India Gate
+
+To know more about me, **[click here](AboutMe.md)**
