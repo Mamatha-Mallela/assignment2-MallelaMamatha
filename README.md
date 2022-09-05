@@ -40,3 +40,11 @@ Below tables represents famous cities in India where I recommend you to visit. T
 | MUMBAI | TAJ HOTEL | 1 HR |
 | BANGALORE | Banaswadi Hanuman Temple | 3 HRS |
 | DELHI | TAJ MAHAL | 4 HRS |
+
+---
+
+# Quotes I like the most
+
+> The way to get started is to quit talking and begin doing. -*Walt Disney*
+
+> If life were predictable it would cease to be life, and be without flavor. -*Eleanor Roosevelt*
