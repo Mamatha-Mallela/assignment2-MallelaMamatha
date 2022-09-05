@@ -26,3 +26,17 @@ Other places near museum are -
 * India Gate
 
 To know more about me, **[click here](AboutMe.md)**
+
+---
+
+# Places to visit in India
+
+Below tables represents famous cities in India where I recommend you to visit. These below cities are famous for food, culture, temples, and many more. I highly recommend you to visit atleast 2 cities to more about India. The first column represents the name of a city. The second column is important location to visit in the city. The third column is the amount of time to spend visiting the important location.
+
+| CITY NAME | IMPORTANT LOCATIONS TO VISIT | TIME TO SPEND |
+| --- | --- | ---: |
+| HYDERABAD | CHARMINAR | 2 HRS |
+| CHENNAI | GOLDEN TEMPLE | 1 HR |
+| MUMBAI | TAJ HOTEL | 1 HR |
+| BANGALORE | Banaswadi Hanuman Temple | 3 HRS |
+| DELHI | TAJ MAHAL | 4 HRS |
