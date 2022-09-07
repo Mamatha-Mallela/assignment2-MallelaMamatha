@@ -48,3 +48,26 @@ Below tables represents famous cities in India where I recommend you to visit. T
 > The way to get started is to quit talking and begin doing. -*Walt Disney*
 
 > If life were predictable it would cease to be life, and be without flavor. -*Eleanor Roosevelt*
+
+---
+
+# My Code
+
+```
+<form action="iframe.php" target="my-iframe" method="post">
+			
+  <label for="text">Some text:</label>
+  <input type="text" name="text" id="text">
+			
+  <input type="submit" value="post">
+			
+</form>
+		
+<iframe name="my-iframe" src="iframe.php"></iframe>
+
+```
+# Stackoverflow code
+> <form action="do_stuff.aspx" method="post" target="my_iframe">
+  <input type="submit" value="Do Stuff!">
+</form>
+<iframe name="my_iframe" src="not_submitted_yet.aspx"></iframe>
