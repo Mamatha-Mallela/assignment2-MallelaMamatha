@@ -58,13 +58,8 @@ Below tables represents famous cities in India where I recommend you to visit. T
 ## Stackoverflow Question and quick link for HTML Code
 
 > How do you post to an iframe?
-> 
-> \<form action="do_stuff.aspx" method="post" target="my_iframe">
-> \<input type="submit" value="Do Stuff!">
-> \</form>
-> \<iframe name="my_iframe" src="not_submitted_yet.aspx"></iframe>
 
-[Click Here to find article on Stackoverflow](https://stackoverflow.com/questions/168455/how-do-you-post-to-an-iframe)
+> [Click Here to find article on Stackoverflow](https://stackoverflow.com/questions/168455/how-do-you-post-to-an-iframe)
 
 
 ## HTML snippet from css-tricks
